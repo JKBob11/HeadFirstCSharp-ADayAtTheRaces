@@ -1,0 +1,9 @@
+G:\Source\BobLearning\DogRacing\DogRacing\bin\Debug\DogRacing.exe.config
+G:\Source\BobLearning\DogRacing\DogRacing\bin\Debug\DogRacing.exe
+G:\Source\BobLearning\DogRacing\DogRacing\bin\Debug\DogRacing.pdb
+G:\Source\BobLearning\DogRacing\DogRacing\obj\Debug\DogRacing.csprojResolveAssemblyReference.cache
+G:\Source\BobLearning\DogRacing\DogRacing\obj\Debug\DogRacing.Form1.resources
+G:\Source\BobLearning\DogRacing\DogRacing\obj\Debug\DogRacing.Properties.Resources.resources
+G:\Source\BobLearning\DogRacing\DogRacing\obj\Debug\DogRacing.csproj.GenerateResource.Cache
+G:\Source\BobLearning\DogRacing\DogRacing\obj\Debug\DogRacing.exe
+G:\Source\BobLearning\DogRacing\DogRacing\obj\Debug\DogRacing.pdb
